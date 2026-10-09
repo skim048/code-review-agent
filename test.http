@@ -1,0 +1,4 @@
+POST http://localhost:8090/review
+Content-Type: application/json
+
+{"prUrl":"https://github.com/skim048/code-review-agent/pull/1"}
